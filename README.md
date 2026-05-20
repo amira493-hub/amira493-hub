@@ -1,6 +1,9 @@
-##                                                   Hi, I am Amira 👋
-##                                                   Data Analyst
+<div align="center">
 
+# Hi, I am Amira 👋
+## Data Analyst
+
+</div>
 <!--
 **amira493-hub/amira493-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
