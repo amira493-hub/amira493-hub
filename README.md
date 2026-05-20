@@ -1,7 +1,16 @@
 <div align="center">
 
 # Hi, I am Amira 👋
-## Data Analyst
+### Data Analyst
+
+<p>
+  <span style="color:#1E90FF;">Python</span> |
+  <span style="color:#1E90FF;">SQL</span> |
+  <span style="color:#1E90FF;">Power BI</span> |
+  <span style="color:#1E90FF;">Tableau</span> |
+  <span style="color:#1E90FF;">Excel</span> |
+  <span style="color:#1E90FF;">Pandas</span>
+</p>
 
 </div>
 <!--
