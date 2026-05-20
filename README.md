@@ -3,14 +3,13 @@
 # Hi, I am Amira 👋
 ### Data Analyst
 
-<p>
-  <span style="color:#1E90FF;">Python</span> |
-  <span style="color:#1E90FF;">SQL</span> |
-  <span style="color:#1E90FF;">Power BI</span> |
-  <span style="color:#1E90FF;">Tableau</span> |
-  <span style="color:#1E90FF;">Excel</span> |
-  <span style="color:#1E90FF;">N8N</span>
-</p>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-blue?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
 
 </div>
 <!--
