@@ -9,7 +9,7 @@
   <span style="color:#1E90FF;">Power BI</span> |
   <span style="color:#1E90FF;">Tableau</span> |
   <span style="color:#1E90FF;">Excel</span> |
-  <span style="color:#1E90FF;">Pandas</span>
+  <span style="color:#1E90FF;">N8N</span>
 </p>
 
 </div>
